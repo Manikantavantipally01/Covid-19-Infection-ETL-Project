@@ -2,7 +2,7 @@
 By Sanjoy Biswas
 
 ## Project Proposal
-Based upon the data compiled by John Hopkins University, I want to explore ''' Insert reasons here'''
+Based upon the data compiled by John Hopkins University, I want to explore Covid-19 Infection
 This will be done by extracting the CSV data and migrating it to a PostgreSQL Database.  
 
 ## Project Description
